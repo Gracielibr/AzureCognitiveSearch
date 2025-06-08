@@ -50,4 +50,6 @@ Este projeto demonstrou como técnicas de IA podem melhorar a organização e re
 ---
 
 ## **5. Referências**  
-- Doc
+Documentação do LangChain.
+
+Tutoriais sobre FAISS e OpenAI Embeddings.
