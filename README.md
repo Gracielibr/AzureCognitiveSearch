@@ -5,7 +5,6 @@ Projeto da DIO, com o objetivo de aplicar técnicas de organização e pesquisa 
 ## **1. Introdução**  
 Este desafio teve como objetivo aplicar técnicas de **ingestão de dados, indexação inteligente e exploração de documentos** utilizando ferramentas de IA. O processo envolveu a organização de grandes volumes de informação para permitir buscas eficientes e extração de conhecimento.  
 
-O repositório está disponível no GitHub: **[Link para o Repositório](https://github.com/seu-usuario/nome-do-repositorio)**  
 
 ---
 
